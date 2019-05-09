@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
     //sendEvent(String eventName, Map eventValues) async {
     Map myMap = {"m1": 'click_time', "mw": 'time date $_counter'};
-    sendEvent("click_me", myMap); //QQ7u.com**
+    sendEvent("click__me", myMap); //QQ7u.com**
   }
 
   @override
